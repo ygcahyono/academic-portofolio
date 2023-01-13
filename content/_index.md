@@ -16,25 +16,32 @@ sections:
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: samuel-scalzo-xyuYk9oLA8I-unsplash.jpg
           filters:
-            brightness: 0.5
+            brightness: 0.7
           size: cover
           position: center
           parallax: false
   - block: markdown
     content:
-      title: 'Welcome 👋'
+      title: '<br> Welcome 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm an ongoing graduate student at the University of Edinburgh, majoring in Finance, Technology, and Policy (Fintech).
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        My areas of interest include analytical skills, problem-solving, data-engineering and machine learning. I am detail-oriented and enjoy working with product and business teams to drive decisions using data. As my master's specialisation concentrates on FinTech, I have a vast appeal on blockchain and the financial market and am keen to utilise my analytical capabilities to tackle issues in financial sectors.
+
+        Since 2014, I have been blending my analytical with programming skills. My last professional job was at Tokopedia (GoTo － Holding Company) as an Analytics Lead, supporting Payment and FinTech day-to-day decision-making in Tokopedia.
+
+        **Specialties:** Analytics & Data, Leadership, Programming, Web3, Writing & Editing
+
+        <br><br>
+
     design:
       columns: '1'
   - block: collection
     content:
-      title: Recent News
+      title: <br> Recent Posts <br> 
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
