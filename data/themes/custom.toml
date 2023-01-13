@@ -1,17 +1,25 @@
-# Theme metadata
-name = "Custom"
+# Essentially Minimal theme but with constant home section bg color.
+name = "custom "
 
 [light]
   # Primary
-  primary = "#dd2c00"
+  primary = "#2962ff"
 
   # Menu
-  menu_primary = "#000"
-  menu_text = "#fff"
-  menu_text_active = "#fdfbe4"
-  menu_title = "#fff"
+  menu_primary = "rgb(247, 250, 252)"
+  menu_text = "#34495e"
+  menu_text_active = "#2962ff"
+  menu_title = "#2b2b2b"
 
-  # Backgrounds
-  background = "#fff"
-  home_section_odd = "#fff"
-  home_section_even = "#fff"
+  # Home sections
+  home_section_odd = "rgb(247, 250, 252)"
+  home_section_even = "rgb(247, 250, 252)"
+
+[dark]
+  primary = "#bbdefb"
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
+  background = "rgb(23,24,25)"
+  home_section_odd = "rgb(6,7,8)"
+  home_section_even = "rgb(23,24,25)"
+  menu_primary = "rgb(23,24,25)"
