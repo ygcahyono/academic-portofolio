@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Yogi Cahyono
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Analytics, Science, Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Finance, Technology and Policy Graduate Student at University of Edinburgh
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Study finance, technology, and policy (fintech) with six years of experience in fast-paced tech industries in Indonesia.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,20 +23,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:contact@ygtc.dev'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin-in
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/yogitricahyono/
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ygcahyono
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
+- icon: layer-group
+  icon_pack: fas
   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
