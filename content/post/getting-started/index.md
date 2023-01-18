@@ -30,7 +30,7 @@ image:
 
 authors:
 - admin
-- 美杨
+# - 美杨
 
 tags:
 - Academic
@@ -38,7 +38,7 @@ tags:
 
 categories:
 - Demo
-- 教程
+# - 教程
 ---
 
 ## Overview
