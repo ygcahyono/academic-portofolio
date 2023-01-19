@@ -9,3 +9,13 @@ The Academic Pages template enables you to quickly create a multi-page academic 
 ## License 
 
 This template/theme is licensed to sponsors of George Cushen (sponsoring via GitHub Sponsors or Patreon) under the Sponsor License (see attached `../../LICENSE.md`).
+
+
+
+
+## Personal Note on How to Continue Progress
+
+```
+go to folder academic-portofolio
+fire `hugo server` 
+```
