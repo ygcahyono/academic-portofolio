@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: 
 - admin
-tags: []
+tags: ["statistics","data-analytics"]
 categories: []
 date: 2018-02-03T23:57:40Z
 lastmod: 2018-02-03T23:57:40Z
@@ -17,7 +17,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   preview_only: false
 
@@ -51,7 +51,7 @@ CLT is a statistical theory that given a sufficiently large of sample size from 
 
 Let’s jump into example, if we have a random value of the parent distribution (population) mean = 0; std dev = 22; #of data: unknown; distribution: normal; the vis like this:
 
-![Normal Distribution](./img-1-normal-distribution.png "Population distribution: Normal")
+![Normal Distribution](./featured.png "Population distribution: Normal")
 
 Assume, we don’t have any computation resource to know the mean of the enormous volume of data. but we have to know what’s the average / mean of the population. We can done this by using CLT, as it mentioned above if we have samples with sufficient number of size (30 really enough), choose randomly, and make around 200 samples (with replacements is okay) then average the result. The mean of the cumulation sample and the mean of the population will closely same!
 
